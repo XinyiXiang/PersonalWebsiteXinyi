@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2018-11-14
+Edit: 09/02/19
 toc: false
 commentable: false
 protected: true
@@ -50,7 +50,7 @@ Additional licensing information can be found YOUR WEBSITE LINK.
 
 # The Name
 
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
+This website is named after "A Finger Pointing to the Moon", as in the Buddhism story:
 
 > **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
 >
@@ -64,4 +64,4 @@ Which has been beautifully put by Bruce Lee:
 
 # Contact
 
-The best way to reach me is via email: $namer$ @ $web.com$
+The best way to reach me is via email: $xinyixiang1129$ @ $gmail.com$
