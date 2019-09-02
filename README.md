@@ -1,6 +1,6 @@
 # Xinyi's Personal Website
 This website is created for personal uses only, any commercial use without permission is prohibited. Please delete any personal information pertained to this website before borrowing the template. Thank you for cooperation.
-https://help.github.com/en/articles/page-build-failed-config-file-error.
+https://vvvvvicabd.github.io/PersonalWebsiteXinyi/.
 # About this website
 
 This website uses these sources:
