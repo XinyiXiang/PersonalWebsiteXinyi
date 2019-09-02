@@ -1,0 +1,9 @@
+{% assign types = include.types %}
+{% case types%}
+{% when "Links" %}
+<code style="background-color: #42B4B9; color: white;"><b>{{ status}}</b></code> 
+{% when 'Photos' %}
+<code style="background-color: #139223; color: white;"><b>{{ status}}</b></code> 
+{% else %}	
+<code><b>{{ post.status}}</b></code> 
+{% endcase %}
