@@ -10,7 +10,6 @@ This website uses these sources:
 | [Particle.js](https://github.com/VincentGarreau/particles.js) | Homepage                                        | [MIT](http://opensource.org/licenses/MIT)                    |
 | [Visitor map](https://clustrmaps.com/)                       | Homepage, footer                                | [TOS](https://clustrmaps.com/legal)                          |
 | [Homepage and color scheme](https://github.com/nrandecker/particle) | Layout @ homepage, color scheme @ all pages     | [MIT](http://opensource.org/licenses/MIT)                    |
-| [List of recent post](https://github.com/mdo/jekyll-snippets/blob/master/posts-list.html) | Homepage, Post index                            | [MIT](http://opensource.org/licenses/MIT)                    |
 | [Search](https://github.com/christian-fei/Simple-Jekyll-Search) | Post index, Tags index                          | [MIT](http://opensource.org/licenses/MIT)                    |
 | [Side bar](https://github.com/poole/lanyon)                  | Post, all pages with these elements             | [MIT](https://github.com/poole/lanyon/blob/master/LICENSE.md) |
 | [Table of content](https://github.com/allejo/jekyll-toc)     | Post                                            | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) or [MIT](http://opensource.org/licenses/MIT) |
