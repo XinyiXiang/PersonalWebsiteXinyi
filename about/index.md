@@ -8,12 +8,6 @@ protected: true
 mathjax: true
 ---
 
-# Me
-
-
-
-# This Site
-
 
 # Posts
 
@@ -64,4 +58,4 @@ Which has been beautifully put by Bruce Lee:
 
 # Contact
 
-The best way to reach me is via email: $xinyixiang1129$ @ $gmail.com$
+The best way to reach me is via email: xinyixiang1129@gmail.com
