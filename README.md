@@ -1,6 +1,6 @@
 # Xinyi's Personal Website
-This website is created for personal uses only, any commercial use without permission is prohibited. Please delete any personal information pertained to this website before borrowing the template. Thank you for cooperation.
-https://xinyixiang.github.io/PersonalWebsiteXinyi/.
+This website is created for personal uses only, any commercial use without permission is prohibited. Please delete any personal information pertained to this website before borrowing the template. Thank you for cooperating.
+
 # About this website
 
 This website uses these sources:
