@@ -1,5 +1,4 @@
 # Xinyi's Personal Website
-This website is created for personal uses only, any commercial use without permission is prohibited. Please delete any personal information pertained to this website before borrowing the template. Thank you for cooperating.
 
 # About this website
 
