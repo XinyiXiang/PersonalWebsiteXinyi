@@ -11,7 +11,7 @@ mathjax: true
 
 # Posts
 
-The posts are at different status.
+Each post's status is indicated by the following tag.
 
 | Status    | Meaning                                                      |
 | --------- | ------------------------------------------------------------ |
@@ -42,7 +42,7 @@ This website uses these sources:
 
 Additional licensing information can be found YOUR WEBSITE LINK.
 
-# The Name
+<!--# The Name
 
 This website is named after "A Finger Pointing to the Moon", as in the Buddhism story:
 
@@ -54,7 +54,7 @@ This website is named after "A Finger Pointing to the Moon", as in the Buddhism 
 
 Which has been beautifully put by Bruce Lee:
 
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
+>It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.-->
 
 # Contact
 
