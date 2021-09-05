@@ -1,6 +1,6 @@
 # Xinyi's Personal Website
 
-# About this website
+## About this website
 
 This website uses these sources:
 
