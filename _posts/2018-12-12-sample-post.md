@@ -1,5 +1,6 @@
 ---
 title: Sample Post - Markdown Syntax
+published: true
 commentable: false
 Edit: 2018-11-14
 mathjax: true
