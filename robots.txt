@@ -3,4 +3,4 @@ Disallow: /images/Xiang_Curriculum_Vitae.pdf
 Disallow: /secret/
 Disallow: /secret
 
-SITEMAP: https://yk-liu.github.io/PersonalWebsiteXinyi/sitemap.xml
+SITEMAP: https://xinyixiang.github.io/PersonalWebsiteXinyi/sitemap.xml
