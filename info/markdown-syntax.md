@@ -102,26 +102,26 @@ You can mix them like [*this*](https://bit.ly), [`this`](https://bit.ly), **[thi
 ```markdown
 Markdown uses `![caption](link)` to reference pictures, caption is optional. You cannot control the size. 
 
-![caption](https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png)
+![caption]()
 
 So I prefer using HTML tags like this:
 
-<img src="https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%">
+<img src="https://github.com/xinyixiang/PersonalWebsiteXinyi/favicon.ico" width="30%">
 ```
 
 Markdown uses `![caption](link)` to reference pictures, caption is optional. You cannot control the size. 
 
-![caption](https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png)
+![caption](https://github.com/xinyixiang/PersonalWebsiteXinyi/favicon.ico)
 
 So I prefer using HTML tags like this:
 
-<img src="https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%">
+<img src="https://github.com/xinyixiang/PersonalWebsiteXinyi/favicon.ico" width="30%">
 
 > Note: I consulted GitHub support about using `raw.github` link for pictures, they said it's okay to do so:
 >
 > > **Can I use raw links to show my pictures in my blog?**
 > >
-> > I know this is not how the Jekyll recommended. Still I am wondering if this practice is discouraged from you guy for if my site got more popular and the traffic would be greater. I would like to know is there any traffic limit on the raw links and is there any work arounds that I could keep my directory structure?
+> > I know this is not how the Jekyll recommended. Still I am wondering if this practice is discouraged from you guys for if my site got more popular and the traffic would be greater. I would like to know is there any traffic limit on the raw links and is there any work- arounds that I could keep my directory structure?
 >
 > and they said:
 >

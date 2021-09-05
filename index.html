@@ -73,15 +73,28 @@ layout: home
 <div class="permlinks">
 <h2>Projects</h2>
 <dl>
-		<dt>    <code>2018</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="https://www.norfolkcollegiate.org/news/applied-computing-class-creates-app-to-make-schedules-a-breeze-">On the Calendar App</a> &nbsp;
+		<dt>    
+			<code>2018</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="https://www.norfolkcollegiate.org/news/applied-computing-class-creates-app-to-make-schedules-a-breeze-">On the Calendar App</a> &nbsp;
 			<code>2019</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="https://www.facebook.com/1497687910461792/photos/a.2551166015113971/2551170878446818/?type=3&theater">DubHacks - Feel Better</a> &nbsp;<br>
 			<code>2020</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="https://youtu.be/sq3jUGeo4Bs?t=1496">Stanford Biodesign - TrialX</a> &nbsp;
 			<code>2020</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="https://github.com/Lucas-ZX-W/FacePoll">DubHacks - FacePoll</a> &nbsp;<br>
 			<code>2021</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="https://www.wwdcscholars.com/s/D3D1FB52-EC4D-4F71-87D7-B55E8EA88EF3">Swift Student Challenge - Rubikat</a> &nbsp;
-		<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-	<dd style="text-align: justify">{{ post.description | markdownify }}</dd>	
+		<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>	
 </dl>
-	
+
+<!--Blogs sorted by published dates-->
+	<div class="permlinks">
+	<h2>Blogs</h2>
+	<dl>
+		{% for post in site.posts limit:3 %}
+		<dt>
+			<code>{{ post.date | date_to_string }}</code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{post.url}}">{{ post.title }}</a>&nbsp;{% include status-indicator.html status=post.status%}
+		</dt>
+		{% if post.description %}
+		<dd style="text-align: justify">{{ post.description | markdownify }}</dd>
+		{% endif %}
+		{% endfor %}
+	</dl>
 <!--
 NOTE:now archived 
 Photos

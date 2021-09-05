@@ -4,8 +4,8 @@ commentable: false
 Edit: 2018-11-14
 mathjax: true
 mermaid: true
-tags: tag1 tag2 tag3
-categories: sample post
+tags: 
+categories: meta
 description: This is a sample post testing and demonstrating all the markdown syntaxes.
 ---
 
@@ -258,8 +258,8 @@ This is a note[^1]. Footnotes can have captions like[^this]. You can reference t
 
 The Foot notes are like this
 
-[^1]: https://yk-liu.github.io
-[^this]: https://yk-liu.github.io
+[^1]: https://xinyixiang.github.io
+[^this]: https://xinyixiang.github.io
 [^this-one]: 
 
 ```
@@ -271,5 +271,3 @@ The Foot notes are like this
 ```
 
 [^that]: or, naturally, simple paragraphs.
-
-[linkid]: https://yk-liu.github.io	"Optional Title"
