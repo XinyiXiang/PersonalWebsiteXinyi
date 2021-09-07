@@ -5,7 +5,7 @@ Edit: 2018-11-14
 mathjax: true
 mermaid: true
 tags: markdown
-categories: technical
+categories: sample
 description: This is a sample post testing and demonstrating all the markdown syntaxes.
 ---
 

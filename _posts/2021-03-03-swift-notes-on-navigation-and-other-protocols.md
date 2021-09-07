@@ -18,4 +18,4 @@ When separating the leading and trailing items in the NavigationBarItems, use co
 The place of the .environment matters because you need to include whatever you send it to, otherwise it wouldn’t know what to modify.
 
 
-<img src="https://raw.githubusercontent.com/xinyixiang/xinyixiang.github.io/master/_posts/2021-03-03-swift-notes-on-navigation-and-other-protocols/code.png">
+<img src="https://raw.githubusercontent.com/xinyixiang/xinyixiang.github.io/master/_posts/2021-03-03-swift-notes-on-navigation-and-other-protocols/code.png" width="80%">
