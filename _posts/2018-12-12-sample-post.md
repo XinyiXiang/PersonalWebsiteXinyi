@@ -4,8 +4,8 @@ commentable: false
 Edit: 2018-11-14
 mathjax: true
 mermaid: true
-tags: tag1
-categories: sample
+tags: markdown
+categories: technical
 description: This is a sample post testing and demonstrating all the markdown syntaxes.
 ---
 
