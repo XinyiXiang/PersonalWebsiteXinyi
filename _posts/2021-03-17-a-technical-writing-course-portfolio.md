@@ -59,3 +59,46 @@ For customizable experience you may choose to opt in (and stop at any time) > Be
 
 You can make suggestions about what you would like to see about Sonx. Our community site is growing and welcomes anyone passionate in renovating technological devices.
 
+
+# Press Release
+
+**Headline: Keychron C1 Officially Released in the North America Market**
+
+*March 6, 2021*
+
+CUPERTINO – Keychron’s new flagship keyboard is intended to provide excellent experience for programmers using all systems. We proudly offer you the new C1 model, with cord adaptable to both Thunderbolt and USB plugs. C1 has consistently provided three types of switches that have been generally used by mechanical keyboards, C1 also has key slots that are interchangeable with supplemental sets. 
+
+With the back-to-school program, you can now enjoy a shipping free purchase plus deducted prices at checkout. Check out our shipping policy on the website for detailed information about this program. The new model comes with specially designed wrapping box and hot-swappable keys, if you are not a mainstream OS user, we also provide guidelines for installing appropriate softwares to remap your keyboard. 
+
+### What We Improved for the New Model
+
+- Additional height adjuster that comes foldable with the keyboard body
+- Switchable keys suitable for both Windows and MacOS Mapping
+- More selected backlighting options for different working conditions
+- RGB backlighting or white backlighting up to your choice at purchase
+- Voice Assistant at Tap
+
+One of the notable cooperative actions Keychron has adapted is to add in a key reserved for calling your voice managers. Siri/Alexa is at your fingertips and requires no combination of keys, just the very reserved key itself.
+About Keychron
+
+We are keen on providing typists/gamers/programmers their most unravelled experience with mechanical keyboards, started by a group of keyboard enthusiasts, we present you with tailored tapping feedback and workaround features unseen from other manufacturers.
+
+### For Our Customers
+
+Keychron has always placed our customers’ opinions at high priority. Your satisfaction is the reason we persist in the high standard of making our products. For more information on our return policy, please visit [_keychron return policy_](https://www.keychron.com/pages/return-policy). For our latency tests and more customer reviews, please visit [**Keychorn**](https://www.keychron.com/)
+
+If you have any questions regarding Keychron C1, please do not hesitate to contact us through our email or leave a comment below our official social platforms. We are also looking forward to having social influencers join the Keychron family!
+
+# Personal Statement
+
+
+I have always been interested in optimizing math models with computers. Over the summer after high school, I interned at a company designing for an early-warning traffic analysis system. While researching with the team, I generated refined neural networks to classify image data, by connecting my implementations and numerical analysis theories, I saw from this experience where math helps people outside of the scope I was familiar with it in. At the time, I was familiar mostly with calculus and probability related, but the internship allowed me to create and build structures directly representing real-life connections.
+
+
+Then in MATH 308, when I was re-introduced to some of the concepts, I felt at ease to visualize how the matrices get transformed to the desired results. In reverse, class materials substantiated my understanding of the internship work. At UW, I took at least one math related course per quarter, and audited at courses if permitted. The summer quarter was accelerated but also very resourceful, my instructor provided me with helpful insights on how to approach certain proofs, which served my math studies even more than the differential techniques did. Then I took multivariable calculus with Dr.Bhattacharya, some of the physics theorems and properties I learned a year ago got clarified in their mathematical forms in this course, especially with curl and divergence, I felt inspiring performing the computations with the knowledge of math concepts to construct the models. Math’s beauty shows not only when it crosses areas, but also when generations of people attempt to patternize its transformation.
+The math department has always been supportive, as I plan to further my studies in grad school at UW, I wish to influence my peers and new students like the people who helped me along the way. I would firmly hold onto the opportunities math offers to study on the fundamental reasonings behind the implementations, and prepare for concentrating in optimizations.
+
+# Key Reasons to Include Selected Pieces
+
+
+I chose to include these five pieces of writings from this quarter because they taught me the most valuable lessons from examining the original pieces to revising for a version that conveys my ideas better. With the infographic, I learned about the appropriate word choices for a certain group of audience, and writing while always have my audiences in heart. Then for Genre Treasure Hunt, I found that even within the same genre of writing, there remains identifiable nuances in the extent of context and formats between short manuals and detailed instruction sets. Markdown Manifesto adapted to the markdown language guidelines in the interests of formatting one’s ideas more efficiently. And then for the Press Release, I learned to write in consideration for both direct and indirect stakeholders among the audiences, beyond just thinking as a writer. My writings also represent the companies for which the statements were written for. Only at the end of the journey this quarter’s technical writing course has provided, have I realized the assignments are progressively helping us to practice putting each elements we learned together, and eventually, moving to write something that is personal to us which transforms non-colloquial statements into appropriate formats. Of course, everything is based on the consumption that we write both for the audiences and ourselves. 
