@@ -4,8 +4,8 @@ commentable: true
 Edit: 2021-03-17
 mathjax: true
 mermaid: true
-tags: technical summary
-categories: meta
+tags:  summary
+categories: technical
 description: This is my final draft for Technical Writing course, including a collection of writings related but not limited to tech.
 ---
 
