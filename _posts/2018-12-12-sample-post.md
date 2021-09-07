@@ -2,7 +2,6 @@
 title: Sample Post - Markdown Syntax
 commentable: false
 Edit: 2018-11-14
-filename: sample-post.md
 mathjax: true
 mermaid: true
 tags: tag1
