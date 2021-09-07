@@ -1,5 +1,13 @@
-
-
+---
+title: Analysis on iconic renaissance architectures
+commentable: true
+Edit: 2021-03-10
+mathjax: true
+mermaid: true
+tags: architecture analysis
+categories: meta
+description: This is my final draft for an Appreciation of Architecture course, for which I focused my comparative studies between iconic Renaissance architectures and buildings established during industrial revolution.
+---
 
 One symbolic Renaissance architecture is the Church of San Lorenzo. Under Giovanni Medici’s order, Brunellschi began his commission to build Medici family’s burial site. Brunellschi adopted the Latin cross plan with square modules and fused classical antiquity, accompanied the long nave with oculus windows decorated clerestories. Inside the church, Pietra Serena corinthian columns elevated the coffered ceiling and the dome over the transepts, constructing wide aisles with columns and arches springing out from the pilasters.
 
