@@ -12,7 +12,7 @@ description: This is my final draft for an Appreciation of Architecture course, 
 One symbolic Renaissance architecture is the Church of San Lorenzo. Under Giovanni Medici’s order, Brunellschi began his commission to build Medici family’s burial site. Brunellschi adopted the Latin cross plan with square modules and fused classical antiquity, accompanied the long nave with oculus windows decorated clerestories. Inside the church, Pietra Serena corinthian columns elevated the coffered ceiling and the dome over the transepts, constructing wide aisles with columns and arches springing out from the pilasters.
 
 
-<img src="https://raw.githubusercontent.com/xinyixiang/xinyixiang.github.io/master/_posts/2021-03-17-a-technical-writing-course-portfolio/assets/cathedral.jpg">
+<img src="https://raw.githubusercontent.com/xinyixiang/xinyixiang.github.io/master/_posts/2021-03-17-a-technical-writing-course-portfolio/assets/cathedral.jpg" width="80%">
 
 
 Industrial revolution buildings conformed to modern standards of studying and working. Large windows permitted better lighting. Weight spreading onto forged iron casts strengthened support, enabling more spaces under the ceiling. Even though some opted to completely use new materials, such as the Eiffel Tower and Crystal Palace, the example we chose combined the neo-classical techniques with industrial approaches, and it is the Bibliothèque Sainte Geneviève by Henri Labrouste. 
