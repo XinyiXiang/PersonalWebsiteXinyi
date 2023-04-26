@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: Swift SwiftUI protocols
 categories: technical
-description: This is my final draft for an Appreciation of Architecture course, for which I focused my comparative studies between iconic Renaissance architectures and buildings established during industrial revolution.
+description: This is my final draft for ARCH 151 `Appreciation of Architecture`, for which I focused my comparative studies between iconic Renaissance architectures and buildings established during industrial revolution.
 ---
 
 You cannot put two alerts with isPresented in the same View.
