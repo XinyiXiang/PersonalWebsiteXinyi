@@ -1,6 +1,6 @@
 # Site settings
 title: Xinyi Xiang
-description: Pursuing Double Degree at University of Washington
+description: This site is a repository of my past experiences, projects, and notes. I enjoy learning through reading, designing and creating, and I've decided to share these notes, along with some of my own writings. 
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages 
 url: "https://xinyixiang.github.io/Website/"
@@ -10,7 +10,7 @@ username: XinyiXiang
 github_username: XinyiXiang
 user_description: user_description
 user_title: user_title
-email: xinyixiang1129@gmail.com
+email: vickyx1129@gmail.com
 
 # Blog Author settings
 author:
